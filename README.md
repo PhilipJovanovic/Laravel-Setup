@@ -15,3 +15,6 @@ cd laravel-setup
 
 ./SnoWs_install_script
 ```
+ 
+
+mysql bzw nginx adden
