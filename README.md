@@ -7,3 +7,7 @@ First clone the repository
 ```bash
 git clone https://github.com/philipjovanovic/laravel-setup laravel-setup
 ```
+```bash
+cd laravel-setup
+./SnoWs_install_script
+```
